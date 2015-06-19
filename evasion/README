@@ -1,0 +1,10 @@
+Evasion with peCloak.py
+-----------------------
+
+Example automated AV evasion tool, explained in chapter 8 of "The Antivirus Hackers Handbook".
+This tool used a modified version of both pefile.py and peCloak.py. It also requires to have
+installed the MultiAV server and client tools available at the following URL:
+
+http://github.com/joxeankoret/multiav
+
+
